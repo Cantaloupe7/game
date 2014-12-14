@@ -1,0 +1,18 @@
+Game
+
+Object
++STATIC: Object objects[]
+-String name
+-int hp
+
+Item
+-String name
+-int value
+
+Container
+-Item contents[]
+-int maxCapacity
+-int currentCapacity
+
++Creature(int init_Capacity, ,)
+
